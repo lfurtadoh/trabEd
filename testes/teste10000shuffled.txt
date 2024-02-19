@@ -1,0 +1,38 @@
+Calories calculated for dayData10000shuffled.csv using dataShuffled.csv:
+
+150g of gfm (348 calories for 100g) = 522 calories
+110g of dcu (364 calories for 100g) = 400 calories
+120g of ble (365 calories for 100g) = 438 calories
+200g of noq (845 calories for 100g) = 1690 calories
+200g of esr (158 calories for 100g) = 316 calories
+150g of ced (491 calories for 100g) = 736 calories
+100g of fvw (516 calories for 100g) = 516 calories
+50g of lct (852 calories for 100g) = 426 calories
+5g of eea (654 calories for 100g) = 32 calories
+30g of gfe (584 calories for 100g) = 175 calories
+50g of bmf (66 calories for 100g) = 33 calories
+200g of dlv (526 calories for 100g) = 1052 calories
+150g of end (190 calories for 100g) = 285 calories
+200g of ifq (658 calories for 100g) = 1316 calories
+50g of oju (880 calories for 100g) = 440 calories
+
+Total calories of the day: 8377
+
+AVL STATISTICS:
+Number of nodes: 10000
+Height: 16
+Number of rotations: 4639
+Number of comparisons: 199
+
+BST STATISTICS:
+Number of nodes: 10000
+Height: 29
+Number of comparisons: 275
+
+SPLAY STATISTICS:
+Number of nodes: 10000
+Height: 39
+Number of rotations: 193879
+Number of comparisons when inserting: 104331
+Number of comparisons when consulting: 158
+Number of total comparisons: 104489

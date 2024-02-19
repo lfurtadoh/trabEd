@@ -1,0 +1,37 @@
+Calories calculated for dayData10000sorted.csv using data.csv:
+
+150g of jin (220 calories for 100g) = 330 calories
+110g of ngo (653 calories for 100g) = 718 calories
+120g of ahu (964 calories for 100g) = 1156 calories
+200g of lzs (199 calories for 100g) = 398 calories
+200g of dmk (600 calories for 100g) = 1200 calories
+150g of cbn (477 calories for 100g) = 715 calories
+100g of bph (313 calories for 100g) = 313 calories
+50g of jex (453 calories for 100g) = 226 calories
+5g of lsm (204 calories for 100g) = 10 calories
+50g of kpo (607 calories for 100g) = 303 calories
+200g of iuh (368 calories for 100g) = 736 calories
+150g of mnc (777 calories for 100g) = 1165 calories
+200g of lky (39 calories for 100g) = 78 calories
+50g of hje (593 calories for 100g) = 296 calories
+
+Total calories of the day: 7644
+
+AVL STATISTICS:
+Number of nodes: 10000
+Height: 14
+Number of rotations: 9986
+Number of comparisons: 192
+
+BST STATISTICS:
+Number of nodes: 10000
+Height: 10000
+Number of comparisons: 86765
+
+SPLAY STATISTICS:
+Number of nodes: 10000
+Height: 661
+Number of rotations: 14399
+Number of comparisons when inserting: 9999
+Number of comparisons when consulting: 7205
+Number of total comparisons: 17204

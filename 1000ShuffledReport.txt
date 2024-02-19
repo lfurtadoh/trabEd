@@ -1,0 +1,35 @@
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+Calorias calculadas para day1.csv usando a tabela 1000Shuffled.csv:
+
+150g de ACTIVIA (74 kcal por 100g) = 111 kcal
+110g de TANGERINE (53 kcal por 100g) = 58 kcal
+120g de BAGEL (257 kcal por 100g) = 308 kcal
+200g de COFFEE (1 kcal por 100g) = 2 kcal
+200g de BEEF FILLET (189 kcal por 100g) = 378 kcal
+150g de RIGATONI (353 kcal por 100g) = 529 kcal
+100g de BANOFFEE PIE (395 kcal por 100g) = 395 kcal
+50g de ARUGULA (25 kcal por 100g) = 12 kcal
+5g de CAESAR DRESSING (429 kcal por 100g) = 21 kcal
+30g de CAMEMBERT (300 kcal por 100g) = 90 kcal
+50g de CHOCOLATE (529 kcal por 100g) = 264 kcal
+200g de WHITE WINE (82 kcal por 100g) = 164 kcal
+
+Calorias totais ingeridas no dia: 2332 kcal
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+-------------------ESTATISTICAS ABP-------------------
+Numero de nodos: 1000
+Altura: 22
+Rotacoes: 0
+Comparacoes: 144
+------------------------------------------------------
+
+-------------------ESTATISTICAS AVL-------------------
+Numero de nodos: 1000
+Altura: 12
+Rotacoes: 449
+Comparacoes: 114
+------------------------------------------------------
+

@@ -1,0 +1,43 @@
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+Calorias calculadas para day2.csv usando a tabela allShuffled.csv:
+
+200g de PINEAPPLE JUICE (53 kcal por 100g) = 106 kcal
+50g de BAGUETTE (274 kcal por 100g) = 137 kcal
+20g de RASPBERRIES (52 kcal por 100g) = 10 kcal
+300g de HOT CHOCOLATE (89 kcal por 100g) = 267 kcal
+30g de WALNUT CREAM CHEESE (342 kcal por 100g) = 102 kcal
+150g de OMELETTE (154 kcal por 100g) = 231 kcal
+20g de CANADIAN-STYLE BACON (107 kcal por 100g) = 21 kcal
+370g de BURGER KING DOUBLE WHOPPER WITH CHEESE (249 kcal por 100g) = 921 kcal
+500g de COCA COLA (42 kcal por 100g) = 210 kcal
+150g de ICE CREAM SUNDAE (142 kcal por 100g) = 213 kcal
+200g de COFFEE (1 kcal por 100g) = 2 kcal
+150g de PEANUT BUTTER COOKIES (475 kcal por 100g) = 712 kcal
+190g de SPARKLING WINE (190 kcal por 100g) = 361 kcal
+10g de BALSAMIC VINAIGRETTE DRESSING (290 kcal por 100g) = 29 kcal
+200g de LOBSTER BISQUE SOUP (100 kcal por 100g) = 200 kcal
+20g de LETTUCE (15 kcal por 100g) = 3 kcal
+200g de PORK RIBS (292 kcal por 100g) = 584 kcal
+50g de WHITE POTATOES (94 kcal por 100g) = 47 kcal
+50g de BAILEY’S IRISH CREAM (327 kcal por 100g) = 163 kcal
+100g de CHOCOLATE MOUSSE PIE (260 kcal por 100g) = 260 kcal
+
+Calorias totais ingeridas no dia: 4579 kcal
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+-------------------ESTATISTICAS ABP-------------------
+Numero de nodos: 1993
+Altura: 29
+Rotacoes: 0
+Comparacoes: 253
+------------------------------------------------------
+
+-------------------ESTATISTICAS AVL-------------------
+Numero de nodos: 1993
+Altura: 13
+Rotacoes: 934
+Comparacoes: 219
+------------------------------------------------------
+

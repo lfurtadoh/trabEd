@@ -1,0 +1,37 @@
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+Calorias calculadas para dayData10000sorted.csv usando a tabela data.csv:
+
+150g de JIN (220 kcal por 100g) = 330 kcal
+110g de NGO (653 kcal por 100g) = 718 kcal
+120g de AHU (964 kcal por 100g) = 1156 kcal
+200g de LZS (199 kcal por 100g) = 398 kcal
+200g de DMK (600 kcal por 100g) = 1200 kcal
+150g de CBN (477 kcal por 100g) = 715 kcal
+100g de BPH (313 kcal por 100g) = 313 kcal
+50g de JEX (453 kcal por 100g) = 226 kcal
+5g de LSM (204 kcal por 100g) = 10 kcal
+50g de KPO (607 kcal por 100g) = 303 kcal
+200g de IUH (368 kcal por 100g) = 736 kcal
+150g de MNC (777 kcal por 100g) = 1165 kcal
+200g de LKY (39 kcal por 100g) = 78 kcal
+50g de HJE (593 kcal por 100g) = 296 kcal
+
+Calorias totais ingeridas no dia: 7644 kcal
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+-------------------ESTATISTICAS ABP-------------------
+Numero de nodos: 10000
+Altura: 10000
+Rotacoes: 0
+Comparacoes: 86765
+------------------------------------------------------
+
+-------------------ESTATISTICAS AVL-------------------
+Numero de nodos: 10000
+Altura: 14
+Rotacoes: 9986
+Comparacoes: 192
+------------------------------------------------------
+
